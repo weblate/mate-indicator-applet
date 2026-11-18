@@ -1,67 +1,70 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the mate-indicator-applet package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-# Translators:
 # Rihards Priedītis <rprieditis@gmail.com>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Imants Liepiņš <imzzinator@gmail.com>, 2018
-# 
+# Rihards Prieditis <rprieditis@gmail.com>, 2026.
+#
+# Translators:
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: mate-indicator-applet 1.26.0\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/mate-indicator-applet/issues\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/mate-indicator-applet/"
+"issues\n"
 "POT-Creation-Date: 2022-10-29 15:29+0200\n"
-"PO-Revision-Date: 2018-03-11 18:40+0000\n"
-"Last-Translator: Imants Liepiņš <imzzinator@gmail.com>, 2018\n"
-"Language-Team: Latvian (https://app.transifex.com/mate/teams/13566/lv/)\n"
+"PO-Revision-Date: 2026-11-18 17:18+0000\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <https://translate.fedoraproject.org/projects/mate-"
+"desktop/applications/mate-indicator-applet/lv/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lv\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: data/org.mate.applets.Indicator.mate-panel-applet.desktop.in.in:5
 #: data/org.mate.applets.Indicator.mate-panel-applet.desktop.in.in:6
 msgid "Indicator Applet Factory"
-msgstr ""
+msgstr "Indikatoru sīklietotnes ražotne"
 
 #: data/org.mate.applets.Indicator.mate-panel-applet.desktop.in.in:9
 #: src/applet-main.c:1019
 msgid "Indicator Applet"
-msgstr "Indikatora sīklietotne"
+msgstr "Indikatoru sīklietotne"
 
 #: data/org.mate.applets.Indicator.mate-panel-applet.desktop.in.in:10
 msgid "An indicator of something that needs your attention on the desktop"
-msgstr "Paziņo, ka kaut kam ir jāpievērš uzmanība uz darba virsmas"
+msgstr "Norāda uz darbvirsmā notiekošo, kam jāpievērš jūsu uzmanība"
 
 #: data/org.mate.applets.IndicatorComplete.mate-panel-applet.desktop.in.in:5
 #: data/org.mate.applets.IndicatorComplete.mate-panel-applet.desktop.in.in:6
 msgid "Indicator Applet Complete Factory"
-msgstr ""
+msgstr "Pilnās indikatoru sīklietotnes ražotne"
 
 #: data/org.mate.applets.IndicatorComplete.mate-panel-applet.desktop.in.in:9
 #: src/applet-main.c:1022
 msgid "Indicator Applet Complete"
-msgstr "Indikātora sīklietotne pabeigta"
+msgstr "Pilnā indikatoru sīklietotne"
 
 #: data/org.mate.applets.IndicatorComplete.mate-panel-applet.desktop.in.in:10
 msgid "A unified applet containing all of the indicators."
-msgstr "Sīklietotne, kas apvieno visus indikatorus"
+msgstr "Vienota sīklietotne, kurā ir visi indikatori."
 
 #: data/org.mate.applets.IndicatorAppmenu.mate-panel-applet.desktop.in.in:5
 #: data/org.mate.applets.IndicatorAppmenu.mate-panel-applet.desktop.in.in:6
 msgid "Indicator Applet Appmenu Factory"
-msgstr ""
+msgstr "Indikatoru sīklietotnes lietotņu izvēlnes ražotne"
 
 #: data/org.mate.applets.IndicatorAppmenu.mate-panel-applet.desktop.in.in:9
 msgid "Indicator Applet Appmenu"
-msgstr "Indikātora sīklietotnes lietotņu izvēlne"
+msgstr "Indikatoru sīklietotnes lietotņu izvēlne"
 
 #: data/org.mate.applets.IndicatorAppmenu.mate-panel-applet.desktop.in.in:10
 msgid "A applet containing the application menus."
-msgstr "Sīklietotne, kas satur lietotņu izvēlnes."
+msgstr "Sīklietotne, kurā ir lietotņu izvēlnes."
 
 #: src/applet-main.c:833
 msgid ""
@@ -69,9 +72,9 @@ msgid ""
 "under the terms of the GNU General Public License version 3, as published by"
 " the Free Software Foundation."
 msgstr ""
-"Šī programma ir brīva programmatūra; jūs varat to izplatīt tālāk un/vai "
-"izmainīt saskaņā ar GNU Vispārējās publiskās licences 3 noteikumiem, ko "
-"publicējis Brīvas programmatūras fonds."
+"Šī programma ir brīva programmatūra: jūs varat to izplatīt tālāk un/vai "
+"mainīt saskaņā ar GNU Vispārējās publiskās licences 3. versijas noteikumiem, "
+"kā to publicējis Brīvās programmatūras fonds."
 
 #: src/applet-main.c:836
 msgid ""
@@ -81,41 +84,45 @@ msgid ""
 "General Public License for more details."
 msgstr ""
 "Šī programma tiek izplatīta cerībā, ka tā būs noderīga, taču BEZ JEBKĀDĀM "
-"GARANTIJĀM; pat bez šķietamām KOMERCIĀLAS VĒRTĪBAS un PIEMĒROTĪBAS "
-"KONKRĒTIEM NOLŪKIEM garantijām. Sīkāku informāciju meklējiet GNU Vispārējā "
-"publiskajā licencē."
+"GARANTIJĀM; pat bez netiešām PĀRDODAMĪBAS, APMIERINOŠAS KVALITĀTES vai "
+"PIEMĒROTĪBAS KONKRĒTAM NOLŪKAM garantijām. Sīkāk skatiet GNU Vispārējo "
+"publisko licenci."
 
 #: src/applet-main.c:840
 msgid ""
 "You should have received a copy of the GNU General Public License along with"
 " this program.  If not, see <http://www.gnu.org/licenses/>."
 msgstr ""
-"Jums vajadzēja saņemt GNU Vispārējās publiskās licences kopiju kopā ar šo "
-"programmu. Ja nesaņēmāt, apmeklējiet <http://www.gnu.org/licenses/>."
+"Jums kopā ar šo programmu vajadzēja saņemt GNU Vispārējās publiskās licences "
+"kopiju. Ja tā nav, skatiet <http://www.gnu.org/licenses/>."
 
 #: src/applet-main.c:850
 msgid ""
 "Copyright © 2009-2010 Canonical, Ltd.\n"
 "Copyright © 2011-2021 MATE developers"
 msgstr ""
+"Autortiesības © 2009-2010 Canonical, Ltd.\n"
+"Autortiesības © 2011-2021 MATE izstrādātāji"
 
 #: src/applet-main.c:853
 msgid "An applet to hold your application menus."
-msgstr "Sīklietotne, kas satur lietotņu izvēlnes."
+msgstr "Sīklietotne jūsu lietotņu izvēlnēm."
 
 #: src/applet-main.c:855
 msgid "An applet to hold all of the system indicators."
-msgstr "Sīklietotne, kura glabā visus sistēmas paziņojumus."
+msgstr "Sīklietotne visiem sistēmas indikatoriem."
 
 #: src/applet-main.c:859
 msgid "translator-credits"
 msgstr ""
+"Rihards Priedītis <rprieditis@gmail.com>\n"
+"\n"
 "Launchpad Contributions:\n"
-"  Kristaps https://launchpad.net/~retail"
+" Kristaps https://launchpad.net/~retail"
 
 #: src/applet-main.c:863
 msgid "MATE Website"
-msgstr "MATE mājaslapa"
+msgstr "MATE tīmekļa vietne"
 
 #: src/applet-main.c:1006
 msgid "_About"
@@ -123,7 +130,7 @@ msgstr "P_ar"
 
 #: src/applet-main.c:1025
 msgid "Indicator Applet Application Menu"
-msgstr "Indikātora sīklietotnes lietotnes izvēlnes"
+msgstr "Indikatoru sīklietotnes lietotņu izvēlne"
 
 #: src/applet-main.c:1089
 msgid "No Indicators"
